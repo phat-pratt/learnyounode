@@ -1,2 +1,3 @@
 # learnyounode
-The learnyounode tutorial
+
+The learnyounode tutorial from [https://github.com/workshopper/learnyounode]
